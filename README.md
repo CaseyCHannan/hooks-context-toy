@@ -1,4 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+### 
+This is a simple toy app to help me reinforce my understanding of React Hooks and the Context API as I plan to utilize these tools in upcoming projects and potentially refactor older personal projects.
 
 ## Available Scripts
 
